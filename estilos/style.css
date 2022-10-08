@@ -1,10 +1,16 @@
 @charset "UTF-8";
 
+/* 
+    Paleta de cores
+    Verde: #49a09d
+    Lilás: #5f2c82
+*/
+
 * {
     padding: 0px;
     margin: 0px;
 }
 
 body{
-    background-image: linear-gradient(to right, #AADDF0 25%, #9DBBFA);
+    background-image: linear-gradient(to bottom, #49a09d 25%, #5f2c82);
 }
