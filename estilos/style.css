@@ -80,7 +80,7 @@ div.campo > label {
 
 div.campo > i {
     color: white;
-    font-size: 2em;
+    font-size: 1.9em;
     width: 40px;
     padding: 5px;
 }
@@ -93,11 +93,12 @@ div.campo > input {
     border: 0px;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-12px);
+    transform: translateY(-10px);
 }
 
 div.campo > input:focus-within {
     background-color: white;
+    border: none;
 }
 
 form > input[type=submit] {
@@ -127,7 +128,7 @@ form > a.botao {
     background-color: white;
     color: #295755;
     border: 1px solid #49a09d;
-    border-radius: 5px;
+    border-radius: 7px;
     text-decoration: none;
 }
 
